@@ -1,6 +1,7 @@
-👋 Hi, I’m **Pilar!**
+Hi, I’m **Pilar!** 👋
 <br>
-👀 I’m from 💙 *Argentina* 💙<br>
+<br>
+ I’m from 💙 *Argentina* 💙<br>
 ⚡I *love* my planet 🌐<br>
 🌱 I’m currently learning to become a FullStack developer...
 
